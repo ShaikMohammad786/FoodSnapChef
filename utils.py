@@ -14,7 +14,7 @@ from collections import Counter
 
 
 # Constants & Setup
-SPOONACULAR_API_KEY = "88f477773a694bca85126abd582af035"
+SPOONACULAR_API_KEY = "YOUR SPOONACULAR API KEY"
 INDIAN_DATASET = "IndianFoodDatasetCSV.csv"
 indian_df = pd.read_csv(INDIAN_DATASET)
 
